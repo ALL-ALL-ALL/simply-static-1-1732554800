@@ -1634,8 +1634,8 @@ formIds.forEach(function (id) {
       if (allValid) {
         e.preventDefault(); // Empêche l'envoi réel
         this.reset(); // Réinitialise les champs
-        window.location.href = 'http://127.0.0.1:3000/paiement/index.html'; // Redirige
-      } else {
+		window.location.href = '/paiement/';
+	} else {
         e.preventDefault(); // Bloque la soumission si des champs sont invalides
       }
     });
