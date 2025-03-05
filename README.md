@@ -1,4 +1,4 @@
-**site Wordpress du restaurant Le petit Gourmet**
+**Site Wordpress du restaurant Le petit Gourmet**
 
 
 
